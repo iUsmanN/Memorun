@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\PROGRESS.cs">
+    <Files>
+      <File FileName="Assets\LeanTouch\Examples\Scripts\LeanDragLine.cs" Line="1" Column="1" />
+      <File FileName="Assets\LeanTouch\Examples\Scripts\LeanDragTrail.cs" Line="1" Column="1" />
+      <File FileName="Assets\Settings.cs" Line="1" Column="1" />
+      <File FileName="Assets\Menu.cs" Line="219" Column="17" />
+      <File FileName="Assets\PROGRESS.cs" Line="35" Column="33" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
